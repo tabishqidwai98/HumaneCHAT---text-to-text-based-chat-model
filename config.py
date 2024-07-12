@@ -1,0 +1,1 @@
+keys = {'GOOGLE_API_KEY':'AIzaSyBI543Mgug7kB9QILruhnvG8qjZP0P-TxE', 'hf_token':'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'}
